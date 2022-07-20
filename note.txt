@@ -1,0 +1,3 @@
+database name: 'crudclient' (must create in phpMyadmin)
+use command : php artisan migrate (to create table in crudclient)
+use command : php artisan serve (to run)
